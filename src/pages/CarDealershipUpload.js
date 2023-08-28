@@ -7,7 +7,7 @@ const CarDealershipUpload = () => {
       <img
         className="car-dealership-upload-child"
         alt=""
-        src="/rectangle-18.svg"
+        src="./rectangle-18.svg"
       />
       <div className="car-dealership-upload-item" />
       <header className="frame-parent" Header>
@@ -28,7 +28,7 @@ const CarDealershipUpload = () => {
           </div>
           <div className="service-parent">
             <div className="service">Product</div>
-            <img className="arrow-down-3" alt="" src="/arrow--down-31.svg" />
+            <img className="arrow-down-3" alt="" src="./arrow--down-31.svg" />
           </div>
           <div className="testimonial-wrapper">
             <div className="service">Testimonial</div>
@@ -44,7 +44,7 @@ const CarDealershipUpload = () => {
       <div class="input-group mb-3">
   <input type="text" class="form-control" placeholder="Search" aria-label="Search" aria-describedby="basic-addon2"/>
   <div class="input-group-append">
-    <button class="btn btn-primary btn-custom" type="button"> <img className="icon" alt="" src="/icon.svg" /></button>
+    <button class="btn btn-primary btn-custom" type="button"> <img className="icon" alt="" src="./icon.svg" /></button>
   </div>
 </div>
       </div>
@@ -64,9 +64,9 @@ const CarDealershipUpload = () => {
           <div className="engine">Engine</div>
         </div>
       </main>
-      <img className="car-dealership-upload-inner" alt="" src="/group-5.svg" />
+      <img className="car-dealership-upload-inner" alt="" src="./group-5.svg" />
       <div className="vector-parent">
-        <img className="frame-item" alt="" src="/vector-1.svg" />
+        <img className="frame-item" alt="" src="./vector-1.svg" />
         <div className="frame-inner" />
       </div>
       <div className="mobiling-social-parent">
@@ -88,14 +88,14 @@ const CarDealershipUpload = () => {
           </div>
         </div>
         <div className="chevron-right-parent">
-          <img className="chevron-right-icon" alt="" src="/chevron-right.svg" />
+          <img className="chevron-right-icon" alt="" src="./chevron-right.svg" />
           <div className="service">Information on data privacy</div>
         </div>
         <div className="chevron-right-group">
           <img
             className="chevron-right-icon"
             alt=""
-            src="/chevron-right1.svg"
+            src="./chevron-right1.svg"
           />
           <div className="service">Agree</div>
         </div>
@@ -121,26 +121,26 @@ const CarDealershipUpload = () => {
         <div className="frame-parent1">
           <div className="frame">
             <div className="car-parent">
-              <img className="car-icon" alt="" src="/car.svg" />
+              <img className="car-icon" alt="" src="./car.svg" />
               <div className="from-business-to">
                 From business to Luxuryclass
               </div>
             </div>
             <div className="touchscreen-parent">
-              <img className="car-icon" alt="" src="/touchscreen.svg" />
+              <img className="car-icon" alt="" src="./touchscreen.svg" />
               <div className="from-business-to">Convenient Online Book</div>
             </div>
           </div>
           <div className="frame1">
             <div className="car-parent">
-              <img className="car-icon" alt="" src="/location-pin.svg" />
+              <img className="car-icon" alt="" src="./location-pin.svg" />
               <div className="from-business-to">
                 <p className="location">125 Location</p>
                 <p className="location">in Indonesia</p>
               </div>
             </div>
             <div className="touchscreen-parent">
-              <img className="car-icon" alt="" src="/clock.svg" />
+              <img className="car-icon" alt="" src="./clock.svg" />
               <div className="from-business-to">24/7 Exclusive On the road</div>
             </div>
           </div>
@@ -176,7 +176,7 @@ const CarDealershipUpload = () => {
           <div className="mobiling">Mobiling</div>
           <div className="automobile1">Automobile</div>
         </div>
-        <img className="frame-child" alt="" src="/group-21.svg" />
+        <img className="frame-child" alt="" src="./group-21.svg" />
       </div>
       <div className="online-service-campaign-vin-ch-parent">
         <div className="online-service-campaign">
@@ -187,8 +187,8 @@ const CarDealershipUpload = () => {
         <div className="new-and-events">New and events</div>
         <div className="press-relase">Press relase</div>
         <div className="english">{`English `}</div>
-        <img className="biglobe-icon" alt="" src="/biglobe.svg" />
-        <img className="biarrow-up-icon" alt="" src="/biarrowup.svg" />
+        <img className="biglobe-icon" alt="" src="./biglobe.svg" />
+        <img className="biarrow-up-icon" alt="" src="./biarrowup.svg" />
       </div>
       <div className="linked-path-frame">
         <div className="copy-for-time">F</div>
@@ -217,12 +217,12 @@ const CarDealershipUpload = () => {
         <div className="copy-for-time23">L</div>
         <div className="copy-for-time24">T</div>
       </div>
-      <img className="star-icon" alt="" src="/star.svg" />
+      <img className="star-icon" alt="" src="./star.svg" />
       <div className="car-dealership-upload-child1" />
       <img
         className="zan-1bwbiuut-aa-unsplash-remov-icon"
         alt=""
-        src="/zan1bwbiuutaaunsplashremovebgpreview-1@2x.png"
+        src="./zan1bwbiuutaaunsplashremovebgpreview-1@2x.png"
       />
     </div>
   );
